@@ -38,7 +38,10 @@
 
 - Run `rspec`
 
-
+## Access frontend
+    - the url to the [backend:](http://127.0.0.1:4000)
+    - -url for the [frontend:](http://127.0.0.1:3000/)
+- [Front-end repo](https://github.com/Nyame-Wolf/-hello-react-front-end-/)
 
 ## Authors
 
